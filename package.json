@@ -1,0 +1,45 @@
+{
+  "name": "zhong-wen-thinks",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Force the agent chain-of-thought to stay in Simplified Chinese.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhy854/zhong-wen-thinks.git"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "deepseek",
+    "harness",
+    "dsh",
+    "dsh-plugin",
+    "chinese",
+    "chain-of-thought",
+    "reasoning",
+    "中文",
+    "思维链",
+    "思考"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh-system-prompt": ">=0.2.0-0"
+  },
+  "license": "MIT"
+}
