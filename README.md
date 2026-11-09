@@ -1,4 +1,4 @@
-# 中文思维链插件 (zhong-wen-thinks)
+﻿# 中文思维链插件 (zhong-wen-thinks)
 
 **最适配中国宝宝体质的 DeepSeek Harness 原生中文思考插件！**
 
@@ -27,7 +27,7 @@ zhong-wen-thinks
 **GitHub 地址：**
 
 ```
-github:yhy854/zhong-wen-thinks
+https://github.com/yhy854/zhong-wen-thinks
 ```
 
 装完按面板提示重启，**新开一个会话**就是中文思考了。
