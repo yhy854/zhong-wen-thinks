@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Chinese thinking",
-    "description": "Keeps the agent's reasoning in Simplified Chinese."
+    "title": "Native Chinese Thinking",
+    "description": "Native Simplified Chinese chain-of-thought for DSH: read every reasoning step in real time and interrupt early when the model goes off track."
   }
 }

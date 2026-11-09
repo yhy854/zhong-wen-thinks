@@ -2,7 +2,7 @@
   "name": "zhong-wen-thinks",
   "version": "0.1.0",
   "type": "module",
-  "description": "Force the agent chain-of-thought to stay in Simplified Chinese.",
+  "description": "最适配中国开发者体质的 DSH 原生中文思考插件：彻底告别满屏英文思维链，实时看懂模型推理、随时打断纠错，不再傻等结果。",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -30,8 +30,9 @@
     "chain-of-thought",
     "reasoning",
     "中文",
+    "原生中文",
     "思维链",
-    "思考"
+    "中文思考"
   ],
   "dsh": {
     "bundle": {
